@@ -83,7 +83,7 @@ Click on **Save routes**
 
 
 
-**Setting up LAMP Stack:**
+## **Setting up LAMP Stack:**
 
 **Linux-Apache-PHP VM:**
 
