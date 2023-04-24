@@ -18,5 +18,7 @@ Under Name:
 * Then select the VPC created earlier as “FinalProjVPC”
 * Click “Create Internet Gateway”
 * Under Actions 
-* Select Edit subnet associations
-Select “PubSubnet” or “PrivSubnet” this will associate the route table with that specific subnet
+  * Select Edit subnet associations
+    * Select “PubSubnet” or “PrivSubnet” this will associate the route table with that specific subnet
+
+![Route Table](https://github.com/liamb8/CloudAdmin-Deploy/blob/main/Photos/RouteTable.JPG)
