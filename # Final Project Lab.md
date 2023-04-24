@@ -149,7 +149,7 @@ sudo systemctl enable mariadb
    - Criteria is greater than or equal 10 packets (for some reason, in testing it was showing "Bytes" above the packet count filed - but when the alarm was created, it was correct. It was likely a JavaScript issue
    - For Consecutive period, enter 1. For Period, select 5 minutes.
 
-9. Choose Create.
+9. Choose Create
 
 **Setup CloudTrail:**
 
